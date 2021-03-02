@@ -741,3 +741,11 @@ Outside of work, he enjoys golfing, cheering on his favorite LA sports teams and
 - GitHub: [pdubroy](https://github.com/pdubroy)
 - [patrick@sourcegraph.com](mailto:patrick@sourcegraph.com), [Twitter](https://twitter.com/dubroy), [LinkedIn](https://www.linkedin.com/in/pdubroy), [dubroy.com](https://dubroy.com/) 
 - Patrick is a small-town Canadian kid who's been living in Germany for the past 10 years. Previously, he worked on autonomous driving at Lyft, where he was an enthusiastic user of Sourcegraph. Outside of work, he loves to play soccer, watch [Bayern Munich](https://fcbayern.com/) games, and explore the gravel roads around Munich on his bike.
+
+## Indradhanush Gupta (he/him)
+
+- Software Engineer, Core Application
+- Kolkata, India, 🇮🇳
+- GitHub: [indradhanush](https://github.com/indradhanush)
+- [indradhanush@sourcegraph.com](mailto:indradhanush@sourcegraph.com), [Twitter](https://twitter.com/indradhanush92), [Pronounce my name 🔊](https://pronouncenames.com/pronounce/indradhanush), [indradhanush.github.io](https://indradhanush.github.io)
+- Indradhanush is a tinkerer and a lazy one at that. If he ever has to do the same thing twice, chances are he will work on automating it away. He likes to go down rabbit holes thinking about human psychology and obsesses about his audio quality on video calls. Away from work, he suffers from having too many hobbies but is most passionate about playing drums. His other hobbies in order of frequency are playing Dungeons & Dragons once a week with friends, playing on his PS4 once every few weeks, reading a book (science, fiction and fantasy) once every few months and painting once every few years.
