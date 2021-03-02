@@ -68,7 +68,7 @@ We have two week cycles starting on Wednesdays. We do a sync planning the day be
         - [Alan Harris](../../../company/team/index.md#alan-harris-he-him)
         - [Artem Ruts](../../../company/team/index.md#artem-ruts-he-him)
         - [Alex Russell-Saw](../../../company/team/index.md#alex-russell-saw-he-him)
-        - I. G. estimated start date is March 1st 2021
+        - [Indradhanush Gupta](../../../company/team/index.md#indradhanush-gupta-he-him)
         - FQ2 frontend engineer
 - [Backend platform](index.md) {#backend-platform-eng}
     - FQ2 [Engineering Manager](../roles.md#engineering-manager), Tomás acting manager until then.
